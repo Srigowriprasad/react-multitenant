@@ -1,0 +1,11 @@
+.admin-app{
+    background-color: lightcoral;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+  }
